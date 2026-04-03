@@ -15,6 +15,8 @@ Cabling: Copper Straight-Through
 
 
 
+
+
 🧪To verify the setup, I performed the following:
 
 DHCP Request: Set PC IP configuration to "DHCP" and confirmed a successful lease.
